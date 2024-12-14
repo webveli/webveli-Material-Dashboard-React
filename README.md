@@ -153,23 +153,19 @@ material-dashboard-react
 
 More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes>
 
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
 Freebies: <https://www.creative-tim.com/products>
 
 Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
 
-Twitter: <https://twitter.com/CreativeTim>
+Facebook: <https://facebook.com/Webveli>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+BuyMeACoffe: <https://buymeacoffee.com/makavael>
 
-Dribbble: <https://dribbble.com/creativetim>
+Mail+: <administrator@webveli.com>
 
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/Makavael>
 
 [CHANGELOG]: ./CHANGELOG.md
 
