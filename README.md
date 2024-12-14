@@ -156,15 +156,16 @@ Freebies: <https://www.creative-tim.com/products>
 
 Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
-Social Media:
 
-Facebook: <https://facebook.com/Webveli>
+## Social Media:
 
-BuyMeACoffe: <https://buymeacoffee.com/makavael>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Webveli)  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/makavael)
 
 Mail+: <administrator@webveli.com>
 
-Instagram: <https://instagram.com/Makavael>
+[Instagram](https://instagram.com/Makavael)
+
 
 [CHANGELOG]: ./CHANGELOG.md
 
