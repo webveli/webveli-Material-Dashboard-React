@@ -12,7 +12,7 @@ Material Dashboard React comes with 5 color filter choices for both the sidebar 
 Material Dashboard React uses a framework built by our friend [Olivier - Material-UI](https://github.com/mui-org/material-ui), who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
 
 Special thanks go to:
-+ [React-chartist](https://github.com/fraserxu/react-chartist) for the wonderful charts.
++ [React-chartist](https://github.com/webveli/webveli-Material-Dashboard-React) for the wonderful charts.
 
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
@@ -27,7 +27,7 @@ You can find the Github Repo here.
 
 Quick start options:
 
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react/archive/master.zip).
+- [Download from Github](https://github.com/webveli/webveli-Material-Dashboard-React).
 - [Download from Creative Tim](http://www.creative-tim.com/product/material-dashboard-react).
 - Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react.git`.
 
